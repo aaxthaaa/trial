@@ -1,0 +1,16 @@
+.a{
+    color: violet;
+}
+.b{
+    color: yellow;
+    background: crimson;
+    text-align: center;
+    font-size: 80px;
+    font-style: oblique;
+    font-weight: bolder;}
+#c{
+    color: blueviolet;
+}
+#d{
+    color: cornflowerblue;
+}
